@@ -1,0 +1,1119 @@
+2024-12-26T21:17:02,553+0700 [6420 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-26T21:17:02,554+0700 [6420 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2024-12-26T21:17:02,554+0700 [6420 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2024-12-26T21:17:02,554+0700 [6420 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-26T21:17:02,554+0700 [6420 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.11
+2024-12-26T21:17:02,554+0700 [6420 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-26T21:17:02,953+0700 [6420 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-26T21:17:03,698+0700 [6420 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-26T21:17:03,849+0700 [6420 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-26T21:17:03,945+0700 [6420 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-26T21:17:03,949+0700 [6420 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-26T21:17:03,949+0700 [6420 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@387c703b
+2024-12-26T21:17:03,949+0700 [6420 1] com.newrelic INFO: Premain startup complete in 1,972ms
+2024-12-26T21:17:03,950+0700 [6420 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-26T21:17:03,981+0700 [6420 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-26T21:19:03,955+0700 [6420 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2024-12-26T21:19:03,956+0700 [6420 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-12-26T21:22:07,867+0700 [12676 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-26T21:22:07,868+0700 [12676 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2024-12-26T21:22:07,868+0700 [12676 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2024-12-26T21:22:07,868+0700 [12676 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-26T21:22:07,868+0700 [12676 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.11
+2024-12-26T21:22:07,868+0700 [12676 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-26T21:22:08,253+0700 [12676 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-26T21:22:09,052+0700 [12676 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-26T21:22:09,236+0700 [12676 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-26T21:22:09,353+0700 [12676 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-26T21:22:09,357+0700 [12676 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-26T21:22:09,357+0700 [12676 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@387c703b
+2024-12-26T21:22:09,357+0700 [12676 1] com.newrelic INFO: Premain startup complete in 2,058ms
+2024-12-26T21:22:09,359+0700 [12676 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-26T21:22:09,393+0700 [12676 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-26T21:24:09,370+0700 [12676 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2024-12-26T21:24:09,371+0700 [12676 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-12-26T21:24:10,149+0700 [12676 68] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2024-12-26T21:24:10,725+0700 [12676 68] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-12-26T21:24:10,725+0700 [12676 68] com.newrelic INFO: Agent run id: BWwODBuYscr1AE4fxFJZL5pnbWcAAAIBAAAnIQEAADGEAgRSWQVSAwAGOC4xNy4wAA9ERVNLVE9QLTJCT0NEN0QAEVJlYWN0aXZlIExlYXJuaW5n
+2024-12-26T21:24:10,725+0700 [12676 68] com.newrelic INFO: Agent 12676@DESKTOP-2BOCD7D/Reactive Learning connected to collector.newrelic.com:443
+2024-12-26T21:24:10,725+0700 [12676 68] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/5119940/applications/1381565778
+2024-12-26T21:24:10,727+0700 [12676 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2024-12-26T21:24:10,727+0700 [12676 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2024-12-26T21:24:10,727+0700 [12676 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2024-12-26T21:24:10,728+0700 [12676 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2024-12-26T21:24:10,728+0700 [12676 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2024-12-26T21:24:10,728+0700 [12676 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2024-12-26T21:24:10,735+0700 [12676 68] com.newrelic INFO: Real user monitoring is enabled for application Reactive Learning. Auto instrumentation is enabled.
+2024-12-26T21:24:10,747+0700 [12676 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-12-26T21:24:29,369+0700 [2764 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-26T21:24:29,369+0700 [2764 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2024-12-26T21:24:29,370+0700 [2764 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2024-12-26T21:24:29,370+0700 [2764 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-26T21:24:29,370+0700 [2764 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.11
+2024-12-26T21:24:29,370+0700 [2764 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-26T21:24:29,744+0700 [2764 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-26T21:24:30,358+0700 [2764 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-26T21:24:30,525+0700 [2764 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-26T21:24:30,622+0700 [2764 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-26T21:24:30,625+0700 [2764 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-26T21:24:30,625+0700 [2764 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@200a570f
+2024-12-26T21:24:30,626+0700 [2764 1] com.newrelic INFO: Premain startup complete in 1,806ms
+2024-12-26T21:24:30,627+0700 [2764 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-26T21:24:30,646+0700 [2764 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-26T21:24:30,650+0700 [2764 40] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-12-26T21:24:30,651+0700 [2764 40] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-12-26T21:33:45,244+0700 [3300 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-26T21:33:45,244+0700 [3300 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2024-12-26T21:33:45,244+0700 [3300 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2024-12-26T21:33:45,244+0700 [3300 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-26T21:33:45,244+0700 [3300 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.11
+2024-12-26T21:33:45,244+0700 [3300 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-26T21:33:45,629+0700 [3300 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-26T21:33:46,367+0700 [3300 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-26T21:33:46,525+0700 [3300 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-26T21:33:46,619+0700 [3300 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-26T21:33:46,622+0700 [3300 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-26T21:33:46,622+0700 [3300 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@387c703b
+2024-12-26T21:33:46,622+0700 [3300 1] com.newrelic INFO: Premain startup complete in 1,956ms
+2024-12-26T21:33:46,623+0700 [3300 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-26T21:33:46,653+0700 [3300 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-26T21:35:46,639+0700 [3300 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2024-12-26T21:35:46,642+0700 [3300 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-12-27T09:23:22,099+0700 [4068 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-27T09:23:22,099+0700 [4068 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2024-12-27T09:23:22,099+0700 [4068 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2024-12-27T09:23:22,099+0700 [4068 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-27T09:23:22,099+0700 [4068 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-27T09:23:22,099+0700 [4068 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-27T09:23:22,536+0700 [4068 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-27T09:23:23,339+0700 [4068 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-27T09:23:23,516+0700 [4068 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-27T09:23:23,625+0700 [4068 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-27T09:23:23,628+0700 [4068 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-27T09:23:23,628+0700 [4068 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@387c703b
+2024-12-27T09:23:23,629+0700 [4068 1] com.newrelic INFO: Premain startup complete in 2,123ms
+2024-12-27T09:23:23,630+0700 [4068 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-27T09:23:23,648+0700 [4068 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-27T09:47:21,699+0700 [4140 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-27T09:47:21,699+0700 [4140 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2024-12-27T09:47:21,699+0700 [4140 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2024-12-27T09:47:21,699+0700 [4140 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-27T09:47:21,699+0700 [4140 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-27T09:47:21,699+0700 [4140 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-27T09:47:22,080+0700 [4140 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-27T09:47:22,792+0700 [4140 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-27T09:47:22,937+0700 [4140 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-27T09:47:23,030+0700 [4140 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-27T09:47:23,032+0700 [4140 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-27T09:47:23,033+0700 [4140 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@387c703b
+2024-12-27T09:47:23,033+0700 [4140 1] com.newrelic INFO: Premain startup complete in 1,883ms
+2024-12-27T09:47:23,034+0700 [4140 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-27T09:47:23,063+0700 [4140 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-27T09:48:45,433+0700 [1316 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-27T09:48:45,433+0700 [1316 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2024-12-27T09:48:45,434+0700 [1316 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2024-12-27T09:48:45,434+0700 [1316 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-27T09:48:45,434+0700 [1316 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-27T09:48:45,434+0700 [1316 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-27T09:48:45,816+0700 [1316 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-27T09:48:46,493+0700 [1316 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-27T09:48:46,646+0700 [1316 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-27T09:48:46,740+0700 [1316 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-27T09:48:46,743+0700 [1316 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-27T09:48:46,743+0700 [1316 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@387c703b
+2024-12-27T09:48:46,743+0700 [1316 1] com.newrelic INFO: Premain startup complete in 1,868ms
+2024-12-27T09:48:46,745+0700 [1316 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-27T09:48:46,765+0700 [1316 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-27T09:59:27,369+0700 [10988 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-27T09:59:27,369+0700 [10988 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2024-12-27T09:59:27,369+0700 [10988 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2024-12-27T09:59:27,369+0700 [10988 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-27T09:59:27,369+0700 [10988 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-27T09:59:27,369+0700 [10988 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-27T09:59:27,736+0700 [10988 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-27T09:59:28,455+0700 [10988 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-27T09:59:28,610+0700 [10988 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-27T09:59:28,701+0700 [10988 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-27T09:59:28,703+0700 [10988 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-27T09:59:28,704+0700 [10988 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@387c703b
+2024-12-27T09:59:28,704+0700 [10988 1] com.newrelic INFO: Premain startup complete in 1,886ms
+2024-12-27T09:59:28,705+0700 [10988 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-27T09:59:28,723+0700 [10988 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-27T09:59:31,243+0700 [10988 42] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-12-27T09:59:31,246+0700 [10988 42] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-12-27T09:59:59,172+0700 [4204 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-27T09:59:59,173+0700 [4204 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2024-12-27T09:59:59,173+0700 [4204 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2024-12-27T09:59:59,173+0700 [4204 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-27T09:59:59,173+0700 [4204 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-27T09:59:59,173+0700 [4204 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-27T09:59:59,552+0700 [4204 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-27T10:00:00,296+0700 [4204 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-27T10:00:00,450+0700 [4204 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-27T10:00:00,545+0700 [4204 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-27T10:00:00,548+0700 [4204 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-27T10:00:00,549+0700 [4204 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@387c703b
+2024-12-27T10:00:00,549+0700 [4204 1] com.newrelic INFO: Premain startup complete in 1,933ms
+2024-12-27T10:00:00,550+0700 [4204 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-27T10:00:00,580+0700 [4204 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-27T10:01:46,837+0700 [1372 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-27T10:01:46,837+0700 [1372 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-27T10:01:46,837+0700 [1372 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-27T10:01:46,837+0700 [1372 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-27T10:01:46,837+0700 [1372 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-27T10:01:46,837+0700 [1372 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-27T10:01:47,224+0700 [1372 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-27T10:01:47,945+0700 [1372 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-27T10:01:48,154+0700 [1372 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-27T10:01:48,264+0700 [1372 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-27T10:01:48,268+0700 [1372 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-27T10:01:48,268+0700 [1372 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@71e7a66b
+2024-12-27T10:01:48,268+0700 [1372 1] com.newrelic INFO: Premain startup complete in 2,005ms
+2024-12-27T10:01:48,269+0700 [1372 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-27T10:01:48,294+0700 [1372 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-27T10:07:49,845+0700 [4732 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-27T10:07:49,845+0700 [4732 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-27T10:07:49,845+0700 [4732 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-27T10:07:49,845+0700 [4732 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-27T10:07:49,845+0700 [4732 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-27T10:07:49,845+0700 [4732 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-27T10:07:50,230+0700 [4732 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-27T10:07:50,969+0700 [4732 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-27T10:07:51,162+0700 [4732 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-27T10:07:51,266+0700 [4732 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-27T10:07:51,272+0700 [4732 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-27T10:07:51,272+0700 [4732 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@71e7a66b
+2024-12-27T10:07:51,272+0700 [4732 1] com.newrelic INFO: Premain startup complete in 1,962ms
+2024-12-27T10:07:51,274+0700 [4732 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-27T10:07:51,288+0700 [4732 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-27T10:07:54,422+0700 [4732 41] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-12-27T10:07:54,424+0700 [4732 41] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-12-27T10:08:23,967+0700 [3592 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-27T10:08:23,968+0700 [3592 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-27T10:08:23,968+0700 [3592 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-27T10:08:23,968+0700 [3592 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-27T10:08:23,968+0700 [3592 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-27T10:08:23,968+0700 [3592 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-27T10:08:24,329+0700 [3592 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-27T10:08:25,038+0700 [3592 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-27T10:08:25,232+0700 [3592 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-27T10:08:25,345+0700 [3592 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-27T10:08:25,347+0700 [3592 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-27T10:08:25,347+0700 [3592 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@71e7a66b
+2024-12-27T10:08:25,348+0700 [3592 1] com.newrelic INFO: Premain startup complete in 1,928ms
+2024-12-27T10:08:25,349+0700 [3592 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-27T10:08:25,375+0700 [3592 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T01:47:39,906+0700 [11292 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T01:47:39,907+0700 [11292 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T01:47:39,907+0700 [11292 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T01:47:39,907+0700 [11292 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T01:47:39,907+0700 [11292 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T01:47:39,907+0700 [11292 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T01:47:40,333+0700 [11292 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T01:47:41,134+0700 [11292 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T01:47:41,354+0700 [11292 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T01:47:41,462+0700 [11292 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T01:47:41,466+0700 [11292 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T01:47:41,466+0700 [11292 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7907ec20
+2024-12-30T01:47:41,466+0700 [11292 1] com.newrelic INFO: Premain startup complete in 2,190ms
+2024-12-30T01:47:41,468+0700 [11292 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T01:47:41,485+0700 [11292 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T01:47:44,872+0700 [11292 41] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-12-30T01:47:44,875+0700 [11292 41] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-12-30T01:54:28,665+0700 [11524 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T01:54:28,665+0700 [11524 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T01:54:28,665+0700 [11524 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T01:54:28,665+0700 [11524 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T01:54:28,666+0700 [11524 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T01:54:28,666+0700 [11524 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T01:54:29,031+0700 [11524 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T01:54:29,809+0700 [11524 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T01:54:30,017+0700 [11524 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T01:54:30,121+0700 [11524 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T01:54:30,125+0700 [11524 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T01:54:30,125+0700 [11524 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7907ec20
+2024-12-30T01:54:30,125+0700 [11524 1] com.newrelic INFO: Premain startup complete in 2,026ms
+2024-12-30T01:54:30,127+0700 [11524 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T01:54:30,153+0700 [11524 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T01:54:33,358+0700 [11524 41] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-12-30T01:54:33,360+0700 [11524 41] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-12-30T01:55:09,543+0700 [12016 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T01:55:09,544+0700 [12016 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T01:55:09,544+0700 [12016 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T01:55:09,544+0700 [12016 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T01:55:09,544+0700 [12016 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T01:55:09,544+0700 [12016 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T01:55:09,911+0700 [12016 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T01:55:10,688+0700 [12016 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T01:55:10,882+0700 [12016 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T01:55:10,974+0700 [12016 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T01:55:10,977+0700 [12016 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T01:55:10,977+0700 [12016 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7907ec20
+2024-12-30T01:55:10,978+0700 [12016 1] com.newrelic INFO: Premain startup complete in 1,977ms
+2024-12-30T01:55:10,979+0700 [12016 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T01:55:10,993+0700 [12016 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T01:55:14,295+0700 [12016 41] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-12-30T01:55:14,297+0700 [12016 41] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-12-30T01:56:01,279+0700 [2312 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T01:56:01,279+0700 [2312 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T01:56:01,279+0700 [2312 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T01:56:01,279+0700 [2312 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T01:56:01,279+0700 [2312 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T01:56:01,279+0700 [2312 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T01:56:01,669+0700 [2312 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T01:56:02,422+0700 [2312 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T01:56:02,624+0700 [2312 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T01:56:02,727+0700 [2312 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T01:56:02,731+0700 [2312 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T01:56:02,731+0700 [2312 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7907ec20
+2024-12-30T01:56:02,731+0700 [2312 1] com.newrelic INFO: Premain startup complete in 1,989ms
+2024-12-30T01:56:02,732+0700 [2312 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T01:56:02,747+0700 [2312 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T01:56:06,094+0700 [2312 41] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-12-30T01:56:06,096+0700 [2312 41] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-12-30T01:56:34,698+0700 [12040 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T01:56:34,698+0700 [12040 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T01:56:34,698+0700 [12040 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T01:56:34,698+0700 [12040 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T01:56:34,698+0700 [12040 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T01:56:34,698+0700 [12040 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T01:56:35,060+0700 [12040 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T01:56:35,844+0700 [12040 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T01:56:36,044+0700 [12040 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T01:56:36,143+0700 [12040 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T01:56:36,147+0700 [12040 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T01:56:36,147+0700 [12040 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7907ec20
+2024-12-30T01:56:36,147+0700 [12040 1] com.newrelic INFO: Premain startup complete in 1,989ms
+2024-12-30T01:56:36,148+0700 [12040 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T01:56:36,173+0700 [12040 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T01:56:40,018+0700 [12040 41] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-12-30T01:56:40,021+0700 [12040 41] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-12-30T18:20:09,415+0700 [10512 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T18:20:09,416+0700 [10512 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T18:20:09,416+0700 [10512 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T18:20:09,416+0700 [10512 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T18:20:09,416+0700 [10512 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T18:20:09,416+0700 [10512 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T18:20:09,858+0700 [10512 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T18:20:10,815+0700 [10512 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T18:20:11,036+0700 [10512 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T18:20:11,138+0700 [10512 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T18:20:11,141+0700 [10512 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T18:20:11,142+0700 [10512 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7907ec20
+2024-12-30T18:20:11,142+0700 [10512 1] com.newrelic INFO: Premain startup complete in 2,385ms
+2024-12-30T18:20:11,143+0700 [10512 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T18:20:11,158+0700 [10512 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T18:20:15,290+0700 [10512 41] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-12-30T18:20:15,292+0700 [10512 41] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-12-30T18:30:45,125+0700 [12148 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T18:30:45,126+0700 [12148 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T18:30:45,126+0700 [12148 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T18:30:45,126+0700 [12148 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T18:30:45,126+0700 [12148 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T18:30:45,126+0700 [12148 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T18:30:45,513+0700 [12148 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T18:30:46,358+0700 [12148 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T18:30:46,569+0700 [12148 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T18:30:46,681+0700 [12148 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T18:30:46,686+0700 [12148 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T18:30:46,687+0700 [12148 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7907ec20
+2024-12-30T18:30:46,687+0700 [12148 1] com.newrelic INFO: Premain startup complete in 2,131ms
+2024-12-30T18:30:46,688+0700 [12148 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T18:30:46,719+0700 [12148 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T18:30:50,859+0700 [12148 41] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-12-30T18:30:50,863+0700 [12148 41] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-12-30T18:32:11,249+0700 [1476 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T18:32:11,249+0700 [1476 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T18:32:11,249+0700 [1476 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T18:32:11,249+0700 [1476 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T18:32:11,249+0700 [1476 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T18:32:11,250+0700 [1476 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T18:32:11,674+0700 [1476 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T18:32:12,516+0700 [1476 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T18:32:12,713+0700 [1476 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T18:32:12,820+0700 [1476 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T18:32:12,826+0700 [1476 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T18:32:12,826+0700 [1476 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7907ec20
+2024-12-30T18:32:12,826+0700 [1476 1] com.newrelic INFO: Premain startup complete in 2,157ms
+2024-12-30T18:32:12,828+0700 [1476 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T18:32:12,852+0700 [1476 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T18:33:35,957+0700 [11912 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T18:33:35,958+0700 [11912 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T18:33:35,958+0700 [11912 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T18:33:35,958+0700 [11912 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T18:33:35,958+0700 [11912 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T18:33:35,958+0700 [11912 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T18:33:36,337+0700 [11912 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T18:38:34,833+0700 [13268 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T18:38:34,833+0700 [13268 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T18:38:34,833+0700 [13268 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T18:38:34,833+0700 [13268 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T18:38:34,833+0700 [13268 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T18:38:34,833+0700 [13268 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T18:38:35,207+0700 [13268 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T18:38:35,963+0700 [13268 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T18:38:36,171+0700 [13268 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T18:38:36,270+0700 [13268 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T18:38:36,274+0700 [13268 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T18:38:36,275+0700 [13268 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@7907ec20
+2024-12-30T18:38:36,275+0700 [13268 1] com.newrelic INFO: Premain startup complete in 1,999ms
+2024-12-30T18:38:36,277+0700 [13268 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T18:38:36,302+0700 [13268 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T18:43:37,306+0700 [12100 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T18:43:37,306+0700 [12100 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T18:43:37,306+0700 [12100 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T18:43:37,306+0700 [12100 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T18:43:37,306+0700 [12100 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T18:43:37,306+0700 [12100 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T18:43:37,711+0700 [12100 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T18:43:38,507+0700 [12100 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T18:43:38,710+0700 [12100 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T18:43:38,818+0700 [12100 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T18:43:38,822+0700 [12100 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T18:43:38,822+0700 [12100 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@1888ff2c
+2024-12-30T18:43:38,823+0700 [12100 1] com.newrelic INFO: Premain startup complete in 2,153ms
+2024-12-30T18:43:38,824+0700 [12100 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T18:43:38,852+0700 [12100 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T18:46:55,535+0700 [11996 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T18:46:55,535+0700 [11996 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T18:46:55,535+0700 [11996 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T18:46:55,535+0700 [11996 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T18:46:55,535+0700 [11996 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T18:46:55,535+0700 [11996 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T18:46:55,931+0700 [11996 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T18:46:56,735+0700 [11996 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T18:46:56,932+0700 [11996 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T18:46:57,044+0700 [11996 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T18:46:57,048+0700 [11996 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T18:46:57,048+0700 [11996 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@1888ff2c
+2024-12-30T18:46:57,048+0700 [11996 1] com.newrelic INFO: Premain startup complete in 2,082ms
+2024-12-30T18:46:57,049+0700 [11996 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T18:46:57,075+0700 [11996 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T18:48:57,052+0700 [11996 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2024-12-30T18:48:57,053+0700 [11996 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-12-30T18:48:59,123+0700 [11996 68] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2024-12-30T18:49:00,577+0700 [11996 68] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-12-30T18:49:00,577+0700 [11996 68] com.newrelic INFO: Agent run id: BfeLI-nOAoHHAE4fxFJZL5pncoisAAIBAAAnIQEAAC7cAgRSWQVSAwAGOC4xNy4wAA9ERVNLVE9QLTJCT0NEN0QAEVJlYWN0aXZlIExlYXJuaW5n
+2024-12-30T18:49:00,577+0700 [11996 68] com.newrelic INFO: Agent 11996@DESKTOP-2BOCD7D/Reactive Learning connected to collector.newrelic.com:443
+2024-12-30T18:49:00,577+0700 [11996 68] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/5119940/applications/1381565778
+2024-12-30T18:49:00,579+0700 [11996 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2024-12-30T18:49:00,579+0700 [11996 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2024-12-30T18:49:00,579+0700 [11996 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2024-12-30T18:49:00,580+0700 [11996 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2024-12-30T18:49:00,580+0700 [11996 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2024-12-30T18:49:00,580+0700 [11996 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2024-12-30T18:49:01,736+0700 [11996 68] com.newrelic INFO: Real user monitoring is enabled for application Reactive Learning. Auto instrumentation is enabled.
+2024-12-30T18:49:01,748+0700 [11996 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-12-30T18:51:24,750+0700 [8284 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T18:51:24,750+0700 [8284 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T18:51:24,750+0700 [8284 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T18:51:24,750+0700 [8284 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T18:51:24,750+0700 [8284 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T18:51:24,750+0700 [8284 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T18:51:25,130+0700 [8284 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T18:51:26,025+0700 [8284 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T18:51:26,230+0700 [8284 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T18:51:26,339+0700 [8284 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T18:51:26,345+0700 [8284 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T18:51:26,345+0700 [8284 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@1888ff2c
+2024-12-30T18:51:26,345+0700 [8284 1] com.newrelic INFO: Premain startup complete in 2,175ms
+2024-12-30T18:51:26,347+0700 [8284 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T18:51:26,376+0700 [8284 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T21:06:35,334+0700 [3800 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T21:06:35,334+0700 [3800 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T21:06:35,334+0700 [3800 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T21:06:35,334+0700 [3800 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T21:06:35,334+0700 [3800 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T21:06:35,334+0700 [3800 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T21:06:35,692+0700 [3800 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T21:06:36,523+0700 [3800 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T21:06:36,717+0700 [3800 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T21:06:36,822+0700 [3800 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T21:06:36,825+0700 [3800 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T21:06:36,826+0700 [3800 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@1888ff2c
+2024-12-30T21:06:36,826+0700 [3800 1] com.newrelic INFO: Premain startup complete in 2,031ms
+2024-12-30T21:06:36,827+0700 [3800 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T21:06:36,841+0700 [3800 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T21:07:53,818+0700 [1268 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T21:07:53,818+0700 [1268 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T21:07:53,819+0700 [1268 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T21:07:53,819+0700 [1268 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T21:07:53,819+0700 [1268 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T21:07:53,819+0700 [1268 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T21:07:54,177+0700 [1268 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T21:07:54,974+0700 [1268 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T21:07:55,176+0700 [1268 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T21:07:55,273+0700 [1268 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T21:07:55,277+0700 [1268 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T21:07:55,277+0700 [1268 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@1888ff2c
+2024-12-30T21:07:55,277+0700 [1268 1] com.newrelic INFO: Premain startup complete in 1,999ms
+2024-12-30T21:07:55,278+0700 [1268 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T21:07:55,302+0700 [1268 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T21:09:55,287+0700 [1268 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2024-12-30T21:09:55,289+0700 [1268 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-12-30T21:10:02,001+0700 [1268 68] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2024-12-30T21:10:15,062+0700 [1268 68] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-12-30T21:10:15,062+0700 [1268 68] com.newrelic INFO: Agent run id: BVJOtPu0xZyeAE4fxFJZL5pncqm4AAIBAAAnIQEAAAT0AgRSWQVSAwAGOC4xNy4wAA9ERVNLVE9QLTJCT0NEN0QAEVJlYWN0aXZlIExlYXJuaW5n
+2024-12-30T21:10:15,063+0700 [1268 68] com.newrelic INFO: Agent 1268@DESKTOP-2BOCD7D/Reactive Learning connected to collector.newrelic.com:443
+2024-12-30T21:10:15,063+0700 [1268 68] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/5119940/applications/1381565778
+2024-12-30T21:10:15,064+0700 [1268 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2024-12-30T21:10:15,064+0700 [1268 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2024-12-30T21:10:15,064+0700 [1268 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2024-12-30T21:10:15,066+0700 [1268 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2024-12-30T21:10:15,066+0700 [1268 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2024-12-30T21:10:15,066+0700 [1268 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2024-12-30T21:10:16,172+0700 [1268 68] com.newrelic INFO: Real user monitoring is enabled for application Reactive Learning. Auto instrumentation is enabled.
+2024-12-30T21:10:16,173+0700 [1268 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-12-30T21:21:18,286+0700 [2944 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T21:21:18,286+0700 [2944 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T21:21:18,286+0700 [2944 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T21:21:18,286+0700 [2944 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T21:21:18,287+0700 [2944 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T21:21:18,287+0700 [2944 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T21:21:18,653+0700 [2944 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T21:21:19,508+0700 [2944 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T21:21:19,700+0700 [2944 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T21:21:19,795+0700 [2944 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T21:21:19,798+0700 [2944 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T21:21:19,798+0700 [2944 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@1888ff2c
+2024-12-30T21:21:19,798+0700 [2944 1] com.newrelic INFO: Premain startup complete in 2,073ms
+2024-12-30T21:21:19,799+0700 [2944 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T21:21:19,824+0700 [2944 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T21:24:14,665+0700 [3820 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T21:24:14,665+0700 [3820 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T21:24:14,665+0700 [3820 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T21:24:14,665+0700 [3820 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T21:24:14,665+0700 [3820 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T21:24:14,665+0700 [3820 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T21:24:15,023+0700 [3820 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T21:24:15,774+0700 [3820 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T21:24:15,968+0700 [3820 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T21:24:16,078+0700 [3820 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T21:24:16,081+0700 [3820 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T21:24:16,081+0700 [3820 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@1888ff2c
+2024-12-30T21:24:16,081+0700 [3820 1] com.newrelic INFO: Premain startup complete in 1,951ms
+2024-12-30T21:24:16,082+0700 [3820 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T21:24:16,096+0700 [3820 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T21:26:16,094+0700 [3820 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2024-12-30T21:26:16,095+0700 [3820 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-12-30T21:26:16,946+0700 [3820 68] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2024-12-30T21:26:17,619+0700 [3820 68] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-12-30T21:26:17,619+0700 [3820 68] com.newrelic INFO: Agent run id: BaC3dei1g1RoAE4fxFJZL5pncq14AAIBAAAnIQEAAA7sAgRSWQVSAwAGOC4xNy4wAA9ERVNLVE9QLTJCT0NEN0QAEVJlYWN0aXZlIExlYXJuaW5n
+2024-12-30T21:26:17,619+0700 [3820 68] com.newrelic INFO: Agent 3820@DESKTOP-2BOCD7D/Reactive Learning connected to collector.newrelic.com:443
+2024-12-30T21:26:17,620+0700 [3820 68] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/5119940/applications/1381565778
+2024-12-30T21:26:17,627+0700 [3820 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2024-12-30T21:26:17,627+0700 [3820 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2024-12-30T21:26:17,627+0700 [3820 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2024-12-30T21:26:17,629+0700 [3820 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2024-12-30T21:26:17,629+0700 [3820 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2024-12-30T21:26:17,629+0700 [3820 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2024-12-30T21:26:18,730+0700 [3820 68] com.newrelic INFO: Real user monitoring is enabled for application Reactive Learning. Auto instrumentation is enabled.
+2024-12-30T21:26:18,731+0700 [3820 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-12-30T21:32:11,302+0700 [8804 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T21:32:11,302+0700 [8804 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T21:32:11,302+0700 [8804 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T21:32:11,302+0700 [8804 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T21:32:11,302+0700 [8804 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T21:32:11,302+0700 [8804 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T21:32:11,664+0700 [8804 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T21:32:12,497+0700 [8804 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T21:32:12,696+0700 [8804 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T21:32:12,802+0700 [8804 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T21:32:12,805+0700 [8804 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T21:32:12,805+0700 [8804 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@1888ff2c
+2024-12-30T21:32:12,805+0700 [8804 1] com.newrelic INFO: Premain startup complete in 2,040ms
+2024-12-30T21:32:12,806+0700 [8804 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T21:32:12,831+0700 [8804 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T21:34:12,815+0700 [8804 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2024-12-30T21:34:12,817+0700 [8804 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-12-30T21:34:16,937+0700 [8804 68] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2024-12-30T21:34:29,736+0700 [8804 68] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2024-12-30T21:34:29,736+0700 [8804 68] com.newrelic INFO: Agent run id: Bdy9xfSy93V7AE4fxFJZL5pncq9YAAIBAAAnIQEAACJkAgRSWQVSAwAGOC4xNy4wAA9ERVNLVE9QLTJCT0NEN0QAEVJlYWN0aXZlIExlYXJuaW5n
+2024-12-30T21:34:29,737+0700 [8804 68] com.newrelic INFO: Agent 8804@DESKTOP-2BOCD7D/Reactive Learning connected to collector.newrelic.com:443
+2024-12-30T21:34:29,737+0700 [8804 68] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/5119940/applications/1381565778
+2024-12-30T21:34:29,738+0700 [8804 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2024-12-30T21:34:29,739+0700 [8804 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2024-12-30T21:34:29,739+0700 [8804 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2024-12-30T21:34:29,740+0700 [8804 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2024-12-30T21:34:29,740+0700 [8804 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2024-12-30T21:34:29,740+0700 [8804 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2024-12-30T21:34:30,320+0700 [8804 68] com.newrelic INFO: Real user monitoring is enabled for application Reactive Learning. Auto instrumentation is enabled.
+2024-12-30T21:34:30,321+0700 [8804 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2024-12-30T21:43:01,120+0700 [312 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-30T21:43:01,120+0700 [312 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-30T21:43:01,120+0700 [312 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-30T21:43:01,120+0700 [312 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-30T21:43:01,120+0700 [312 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-30T21:43:01,120+0700 [312 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-30T21:43:01,477+0700 [312 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-30T21:43:02,255+0700 [312 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-30T21:43:02,446+0700 [312 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-30T21:43:02,548+0700 [312 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-30T21:43:02,551+0700 [312 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-30T21:43:02,552+0700 [312 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@1888ff2c
+2024-12-30T21:43:02,552+0700 [312 1] com.newrelic INFO: Premain startup complete in 1,963ms
+2024-12-30T21:43:02,553+0700 [312 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-30T21:43:02,577+0700 [312 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-30T21:43:09,352+0700 [312 41] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-12-30T21:43:09,354+0700 [312 41] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2024-12-31T00:45:31,376+0700 [7784 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2024-12-31T00:45:31,376+0700 [7784 1] com.newrelic INFO: JRE vendor Eclipse Adoptium version 21.0.5
+2024-12-31T00:45:31,377+0700 [7784 1] com.newrelic INFO: JVM vendor Eclipse Adoptium OpenJDK 64-Bit Server VM version 21.0.5+11-LTS
+2024-12-31T00:45:31,377+0700 [7784 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2024-12-31T00:45:31,377+0700 [7784 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.14
+2024-12-31T00:45:31,377+0700 [7784 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2024-12-31T00:45:31,740+0700 [7784 43] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2024-12-31T00:45:32,522+0700 [7784 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2024-12-31T00:45:32,713+0700 [7784 1] com.newrelic INFO: Setting audit_mode to false
+2024-12-31T00:45:32,811+0700 [7784 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2024-12-31T00:45:32,816+0700 [7784 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2024-12-31T00:45:32,817+0700 [7784 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@1888ff2c
+2024-12-31T00:45:32,817+0700 [7784 1] com.newrelic INFO: Premain startup complete in 1,974ms
+2024-12-31T00:45:32,818+0700 [7784 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2024-12-31T00:45:32,842+0700 [7784 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2024-12-31T00:45:39,482+0700 [7784 41] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2024-12-31T00:45:39,484+0700 [7784 41] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2025-01-01T11:21:29,142+0700 [11400 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-01T11:21:29,143+0700 [11400 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-01T11:21:29,143+0700 [11400 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-01T11:21:29,143+0700 [11400 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-01T11:21:29,143+0700 [11400 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-01T11:21:29,143+0700 [11400 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-01T11:21:29,557+0700 [11400 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-01T11:21:30,345+0700 [11400 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-01T11:21:30,502+0700 [11400 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-01T11:21:30,606+0700 [11400 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-01T11:21:30,609+0700 [11400 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-01T11:21:30,610+0700 [11400 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-01T11:21:30,610+0700 [11400 1] com.newrelic INFO: Premain startup complete in 2,056ms
+2025-01-01T11:21:30,611+0700 [11400 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-01T11:21:30,630+0700 [11400 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-01T11:21:37,317+0700 [11400 42] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2025-01-01T11:21:37,319+0700 [11400 42] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2025-01-01T16:33:23,785+0700 [9136 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-01T16:33:23,785+0700 [9136 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-01T16:33:23,785+0700 [9136 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-01T16:33:23,785+0700 [9136 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-01T16:33:23,786+0700 [9136 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-01T16:33:23,786+0700 [9136 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-01T16:33:24,161+0700 [9136 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-01T16:33:24,843+0700 [9136 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-01T16:33:24,984+0700 [9136 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-01T16:33:25,077+0700 [9136 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-01T16:33:25,080+0700 [9136 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-01T16:33:25,080+0700 [9136 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-01T16:33:25,080+0700 [9136 1] com.newrelic INFO: Premain startup complete in 1,837ms
+2025-01-01T16:33:25,081+0700 [9136 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-01T16:33:25,099+0700 [9136 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-01T16:35:25,089+0700 [9136 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2025-01-01T16:35:25,090+0700 [9136 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-01T16:35:26,601+0700 [9136 68] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2025-01-01T16:35:28,134+0700 [9136 68] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2025-01-01T16:35:28,134+0700 [9136 68] com.newrelic INFO: Agent run id: BdCPwDbpZ2LeAE4fxFJZL5pndQxEAAIBAAAnIQEAACOwAgRSWQVSAwAGOC4xNy4wAA9ERVNLVE9QLTJCT0NEN0QAEVJlYWN0aXZlIExlYXJuaW5n
+2025-01-01T16:35:28,134+0700 [9136 68] com.newrelic INFO: Agent 9136@DESKTOP-2BOCD7D/Reactive Learning connected to collector.newrelic.com:443
+2025-01-01T16:35:28,134+0700 [9136 68] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/5119940/applications/1381565778
+2025-01-01T16:35:28,135+0700 [9136 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-01T16:35:28,135+0700 [9136 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-01T16:35:28,135+0700 [9136 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-01T16:35:28,136+0700 [9136 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-01T16:35:28,137+0700 [9136 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-01T16:35:28,137+0700 [9136 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-01T16:35:28,143+0700 [9136 68] com.newrelic INFO: Real user monitoring is enabled for application Reactive Learning. Auto instrumentation is enabled.
+2025-01-01T16:35:28,154+0700 [9136 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-01T17:01:06,672+0700 [6804 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-01T17:01:06,672+0700 [6804 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-01T17:01:06,672+0700 [6804 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-01T17:01:06,672+0700 [6804 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-01T17:01:06,672+0700 [6804 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-01T17:01:06,672+0700 [6804 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-01T17:01:07,050+0700 [6804 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-01T17:01:07,747+0700 [6804 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-01T17:01:07,904+0700 [6804 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-01T17:01:07,995+0700 [6804 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-01T17:01:07,999+0700 [6804 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-01T17:01:07,999+0700 [6804 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-01T17:01:07,999+0700 [6804 1] com.newrelic INFO: Premain startup complete in 1,879ms
+2025-01-01T17:01:08,001+0700 [6804 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-01T17:01:08,035+0700 [6804 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-01T17:05:16,060+0700 [9000 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-01T17:05:16,060+0700 [9000 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-01T17:05:16,060+0700 [9000 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-01T17:05:16,060+0700 [9000 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-01T17:05:16,061+0700 [9000 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-01T17:05:16,061+0700 [9000 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-01T17:05:16,471+0700 [9000 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-01T17:05:17,166+0700 [9000 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-01T17:05:17,341+0700 [9000 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-01T17:05:17,427+0700 [9000 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-01T17:05:17,429+0700 [9000 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-01T17:05:17,430+0700 [9000 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-01T17:05:17,430+0700 [9000 1] com.newrelic INFO: Premain startup complete in 1,980ms
+2025-01-01T17:05:17,431+0700 [9000 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-01T17:05:17,458+0700 [9000 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-01T17:06:38,198+0700 [13212 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-01T17:06:38,198+0700 [13212 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-01T17:06:38,198+0700 [13212 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-01T17:06:38,198+0700 [13212 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-01T17:06:38,198+0700 [13212 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-01T17:06:38,198+0700 [13212 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-01T17:06:38,570+0700 [13212 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-01T17:06:39,281+0700 [13212 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-01T17:06:39,437+0700 [13212 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-01T17:06:39,525+0700 [13212 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-01T17:06:39,528+0700 [13212 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-01T17:06:39,528+0700 [13212 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-01T17:06:39,529+0700 [13212 1] com.newrelic INFO: Premain startup complete in 1,865ms
+2025-01-01T17:06:39,530+0700 [13212 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-01T17:06:39,558+0700 [13212 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-01T17:08:47,368+0700 [10056 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-01T17:08:47,368+0700 [10056 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-01T17:08:47,368+0700 [10056 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-01T17:08:47,368+0700 [10056 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-01T17:08:47,369+0700 [10056 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-01T17:08:47,369+0700 [10056 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-01T17:08:47,746+0700 [10056 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-01T17:08:48,386+0700 [10056 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-01T17:08:48,533+0700 [10056 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-01T17:08:48,621+0700 [10056 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-01T17:08:48,623+0700 [10056 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-01T17:08:48,623+0700 [10056 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-01T17:08:48,624+0700 [10056 1] com.newrelic INFO: Premain startup complete in 1,795ms
+2025-01-01T17:08:48,625+0700 [10056 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-01T17:08:48,654+0700 [10056 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-01T17:10:48,627+0700 [10056 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2025-01-01T17:10:48,629+0700 [10056 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-01T17:10:50,133+0700 [10056 68] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2025-01-01T17:10:51,865+0700 [10056 68] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2025-01-01T17:10:51,865+0700 [10056 68] com.newrelic INFO: Agent run id: BXBkmyjmAgxMAE4fxFJZL5pndRS0AAIBAAAnIQEAACdIAgRSWQVSAwAGOC4xNy4wAA9ERVNLVE9QLTJCT0NEN0QAEVJlYWN0aXZlIExlYXJuaW5n
+2025-01-01T17:10:51,866+0700 [10056 68] com.newrelic INFO: Agent 10056@DESKTOP-2BOCD7D/Reactive Learning connected to collector.newrelic.com:443
+2025-01-01T17:10:51,866+0700 [10056 68] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/5119940/applications/1381565778
+2025-01-01T17:10:51,868+0700 [10056 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-01T17:10:51,868+0700 [10056 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-01T17:10:51,868+0700 [10056 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-01T17:10:51,869+0700 [10056 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-01T17:10:51,869+0700 [10056 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-01T17:10:51,869+0700 [10056 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-01T17:10:51,876+0700 [10056 68] com.newrelic INFO: Real user monitoring is enabled for application Reactive Learning. Auto instrumentation is enabled.
+2025-01-01T17:10:51,876+0700 [10056 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-01T17:11:08,513+0700 [9744 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-01T17:11:08,513+0700 [9744 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-01T17:11:08,513+0700 [9744 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-01T17:11:08,513+0700 [9744 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-01T17:11:08,513+0700 [9744 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-01T17:11:08,513+0700 [9744 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-01T17:11:08,908+0700 [9744 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-01T17:11:09,561+0700 [9744 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-01T17:11:09,700+0700 [9744 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-01T17:11:09,802+0700 [9744 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-01T17:11:09,805+0700 [9744 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-01T17:11:09,805+0700 [9744 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@6ad5c04e
+2025-01-01T17:11:09,805+0700 [9744 1] com.newrelic INFO: Premain startup complete in 1,875ms
+2025-01-01T17:11:09,806+0700 [9744 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-01T17:11:09,844+0700 [9744 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-01T17:12:55,684+0700 [11604 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-01T17:12:55,684+0700 [11604 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-01T17:12:55,684+0700 [11604 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-01T17:12:55,684+0700 [11604 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-01T17:12:55,684+0700 [11604 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-01T17:12:55,684+0700 [11604 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-01T17:12:56,058+0700 [11604 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-01T17:12:56,719+0700 [11604 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-01T17:12:56,872+0700 [11604 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-01T17:12:56,959+0700 [11604 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-01T17:12:56,961+0700 [11604 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-01T17:12:56,962+0700 [11604 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-01T17:12:56,962+0700 [11604 1] com.newrelic INFO: Premain startup complete in 1,811ms
+2025-01-01T17:12:56,963+0700 [11604 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-01T17:12:56,991+0700 [11604 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-01T17:14:56,969+0700 [11604 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2025-01-01T17:14:56,970+0700 [11604 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-01T17:14:59,138+0700 [11604 68] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2025-01-01T17:15:00,692+0700 [11604 68] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2025-01-01T17:15:00,692+0700 [11604 68] com.newrelic INFO: Agent run id: BRzhVLSLwhQcAE4fxFJZL5pndRWkAAIBAAAnIQEAAC1UAgRSWQVSAwAGOC4xNy4wAA9ERVNLVE9QLTJCT0NEN0QAEVJlYWN0aXZlIExlYXJuaW5n
+2025-01-01T17:15:00,692+0700 [11604 68] com.newrelic INFO: Agent 11604@DESKTOP-2BOCD7D/Reactive Learning connected to collector.newrelic.com:443
+2025-01-01T17:15:00,693+0700 [11604 68] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/5119940/applications/1381565778
+2025-01-01T17:15:00,694+0700 [11604 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-01T17:15:00,694+0700 [11604 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-01T17:15:00,694+0700 [11604 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-01T17:15:00,695+0700 [11604 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-01T17:15:00,695+0700 [11604 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-01T17:15:00,695+0700 [11604 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-01T17:15:00,700+0700 [11604 68] com.newrelic INFO: Real user monitoring is enabled for application Reactive Learning. Auto instrumentation is enabled.
+2025-01-01T17:15:00,701+0700 [11604 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-01T17:16:15,245+0700 [9376 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-01T17:16:15,245+0700 [9376 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-01T17:16:15,246+0700 [9376 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-01T17:16:15,246+0700 [9376 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-01T17:16:15,246+0700 [9376 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-01T17:16:15,246+0700 [9376 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-01T17:16:15,625+0700 [9376 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-01T17:16:16,293+0700 [9376 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-01T17:16:16,453+0700 [9376 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-01T17:16:16,542+0700 [9376 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-01T17:16:16,545+0700 [9376 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-01T17:16:16,545+0700 [9376 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-01T17:16:16,546+0700 [9376 1] com.newrelic INFO: Premain startup complete in 1,866ms
+2025-01-01T17:16:16,547+0700 [9376 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-01T17:16:16,576+0700 [9376 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-02T10:29:31,018+0700 [7184 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-02T10:29:31,018+0700 [7184 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-02T10:29:31,018+0700 [7184 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-02T10:29:31,018+0700 [7184 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-02T10:29:31,019+0700 [7184 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-02T10:29:31,019+0700 [7184 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-02T10:29:31,463+0700 [7184 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-02T10:29:32,172+0700 [7184 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-02T10:29:32,341+0700 [7184 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-02T10:29:32,432+0700 [7184 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-02T10:29:32,436+0700 [7184 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-02T10:29:32,436+0700 [7184 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-02T10:29:32,436+0700 [7184 1] com.newrelic INFO: Premain startup complete in 2,020ms
+2025-01-02T10:29:32,437+0700 [7184 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-02T10:29:32,457+0700 [7184 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-02T10:31:32,451+0700 [7184 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2025-01-02T10:31:32,452+0700 [7184 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-02T10:31:33,959+0700 [7184 68] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2025-01-02T10:31:35,025+0700 [7184 68] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2025-01-02T10:31:35,025+0700 [7184 68] com.newrelic INFO: Agent run id: Bb0a_fGqade9AE4fxFJZL5pndgiwAAIBAAAnIQEAABwQAgRSWQVSAwAGOC4xNy4wAA9ERVNLVE9QLTJCT0NEN0QAEVJlYWN0aXZlIExlYXJuaW5n
+2025-01-02T10:31:35,025+0700 [7184 68] com.newrelic INFO: Agent 7184@DESKTOP-2BOCD7D/Reactive Learning connected to collector.newrelic.com:443
+2025-01-02T10:31:35,026+0700 [7184 68] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/5119940/applications/1381565778
+2025-01-02T10:31:35,027+0700 [7184 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-02T10:31:35,027+0700 [7184 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-02T10:31:35,027+0700 [7184 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-02T10:31:35,029+0700 [7184 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-02T10:31:35,029+0700 [7184 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-02T10:31:35,029+0700 [7184 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-02T10:31:36,131+0700 [7184 68] com.newrelic INFO: Real user monitoring is enabled for application Reactive Learning. Auto instrumentation is enabled.
+2025-01-02T10:31:36,143+0700 [7184 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-02T10:36:44,669+0700 [10772 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-02T10:36:44,669+0700 [10772 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-02T10:36:44,669+0700 [10772 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-02T10:36:44,670+0700 [10772 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-02T10:36:44,670+0700 [10772 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-02T10:36:44,670+0700 [10772 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-02T10:36:45,054+0700 [10772 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-02T10:36:45,731+0700 [10772 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-02T10:36:45,867+0700 [10772 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-02T10:36:45,954+0700 [10772 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-02T10:36:45,957+0700 [10772 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-02T10:36:45,957+0700 [10772 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-02T10:36:45,957+0700 [10772 1] com.newrelic INFO: Premain startup complete in 1,835ms
+2025-01-02T10:36:45,958+0700 [10772 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-02T10:36:45,988+0700 [10772 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-02T10:38:45,969+0700 [10772 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2025-01-02T10:38:45,970+0700 [10772 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-02T10:38:47,491+0700 [10772 68] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2025-01-02T10:38:49,031+0700 [10772 68] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2025-01-02T10:38:49,031+0700 [10772 68] com.newrelic INFO: Agent run id: BVX0Q1PMbOIpAE4fxFJZL5pndgpUAAIBAAAnIQEAACoUAgRSWQVSAwAGOC4xNy4wAA9ERVNLVE9QLTJCT0NEN0QAEVJlYWN0aXZlIExlYXJuaW5n
+2025-01-02T10:38:49,032+0700 [10772 68] com.newrelic INFO: Agent 10772@DESKTOP-2BOCD7D/Reactive Learning connected to collector.newrelic.com:443
+2025-01-02T10:38:49,032+0700 [10772 68] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/5119940/applications/1381565778
+2025-01-02T10:38:49,033+0700 [10772 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-02T10:38:49,033+0700 [10772 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-02T10:38:49,033+0700 [10772 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-02T10:38:49,035+0700 [10772 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-02T10:38:49,035+0700 [10772 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-02T10:38:49,035+0700 [10772 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-02T10:38:49,588+0700 [10772 68] com.newrelic INFO: Real user monitoring is enabled for application Reactive Learning. Auto instrumentation is enabled.
+2025-01-02T10:38:49,589+0700 [10772 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-02T10:52:27,780+0700 [9296 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-02T10:52:27,780+0700 [9296 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-02T10:52:27,780+0700 [9296 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-02T10:52:27,780+0700 [9296 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-02T10:52:27,780+0700 [9296 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-02T10:52:27,780+0700 [9296 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-02T10:52:28,172+0700 [9296 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-02T10:52:28,832+0700 [9296 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-02T10:52:28,993+0700 [9296 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-02T10:52:29,093+0700 [9296 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-02T10:52:29,096+0700 [9296 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-02T10:52:29,097+0700 [9296 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-02T10:52:29,097+0700 [9296 1] com.newrelic INFO: Premain startup complete in 1,880ms
+2025-01-02T10:52:29,098+0700 [9296 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-02T10:52:29,127+0700 [9296 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-02T10:54:29,106+0700 [9296 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2025-01-02T10:54:29,107+0700 [9296 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-02T10:54:30,627+0700 [9296 68] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2025-01-02T10:54:31,695+0700 [9296 68] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2025-01-02T10:54:31,695+0700 [9296 68] com.newrelic INFO: Agent run id: BZt6OkjX7SChAE4fxFJZL5pndg4UAAIBAAAnIQEAACRQAgRSWQVSAwAGOC4xNy4wAA9ERVNLVE9QLTJCT0NEN0QAEVJlYWN0aXZlIExlYXJuaW5n
+2025-01-02T10:54:31,695+0700 [9296 68] com.newrelic INFO: Agent 9296@DESKTOP-2BOCD7D/Reactive Learning connected to collector.newrelic.com:443
+2025-01-02T10:54:31,695+0700 [9296 68] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/5119940/applications/1381565778
+2025-01-02T10:54:31,697+0700 [9296 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-02T10:54:31,697+0700 [9296 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-02T10:54:31,697+0700 [9296 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-02T10:54:31,698+0700 [9296 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-02T10:54:31,698+0700 [9296 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-02T10:54:31,698+0700 [9296 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-02T10:54:32,245+0700 [9296 68] com.newrelic INFO: Real user monitoring is enabled for application Reactive Learning. Auto instrumentation is enabled.
+2025-01-02T10:54:32,246+0700 [9296 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-02T10:54:39,596+0700 [10824 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-02T10:54:39,597+0700 [10824 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-02T10:54:39,597+0700 [10824 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-02T10:54:39,597+0700 [10824 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-02T10:54:39,597+0700 [10824 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-02T10:54:39,597+0700 [10824 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-02T10:54:39,990+0700 [10824 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-02T10:54:40,663+0700 [10824 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-02T10:54:40,828+0700 [10824 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-02T10:54:40,924+0700 [10824 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-02T10:54:40,927+0700 [10824 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-02T10:54:40,927+0700 [10824 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-02T10:54:40,927+0700 [10824 1] com.newrelic INFO: Premain startup complete in 1,912ms
+2025-01-02T10:54:40,929+0700 [10824 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-02T10:54:40,957+0700 [10824 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-02T11:00:13,071+0700 [10624 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-02T11:00:13,071+0700 [10624 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-02T11:00:13,071+0700 [10624 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-02T11:00:13,072+0700 [10624 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-02T11:00:13,072+0700 [10624 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-02T11:00:13,072+0700 [10624 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-02T11:00:13,474+0700 [10624 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-02T11:00:14,192+0700 [10624 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-02T11:00:14,363+0700 [10624 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-02T11:00:14,462+0700 [10624 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-02T11:00:14,465+0700 [10624 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-02T11:00:14,465+0700 [10624 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-02T11:00:14,466+0700 [10624 1] com.newrelic INFO: Premain startup complete in 2,059ms
+2025-01-02T11:00:14,467+0700 [10624 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-02T11:00:14,486+0700 [10624 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-02T11:03:12,631+0700 [10624 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2025-01-02T11:03:12,632+0700 [10624 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-02T11:04:13,839+0700 [10560 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-02T11:04:13,839+0700 [10560 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-02T11:04:13,839+0700 [10560 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-02T11:04:13,839+0700 [10560 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-02T11:04:13,839+0700 [10560 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-02T11:04:13,839+0700 [10560 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-02T11:04:14,238+0700 [10560 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-02T11:04:14,881+0700 [10560 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-02T11:04:15,048+0700 [10560 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-02T11:04:15,145+0700 [10560 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-02T11:04:15,148+0700 [10560 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-02T11:04:15,148+0700 [10560 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-02T11:04:15,148+0700 [10560 1] com.newrelic INFO: Premain startup complete in 1,904ms
+2025-01-02T11:04:15,150+0700 [10560 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-02T11:04:15,178+0700 [10560 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-02T11:05:48,400+0700 [8960 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-02T11:05:48,400+0700 [8960 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-02T11:05:48,400+0700 [8960 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-02T11:05:48,400+0700 [8960 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-02T11:05:48,400+0700 [8960 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-02T11:05:48,400+0700 [8960 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-02T11:05:48,808+0700 [8960 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-02T11:05:49,478+0700 [8960 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-02T11:05:49,675+0700 [8960 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-02T11:05:49,794+0700 [8960 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-02T11:05:49,798+0700 [8960 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-02T11:05:49,798+0700 [8960 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-02T11:05:49,798+0700 [8960 1] com.newrelic INFO: Premain startup complete in 1,990ms
+2025-01-02T11:05:49,800+0700 [8960 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-02T11:05:49,836+0700 [8960 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-02T15:34:39,014+0700 [7076 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-02T15:34:39,015+0700 [7076 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-02T15:34:39,015+0700 [7076 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-02T15:34:39,015+0700 [7076 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-02T15:34:39,015+0700 [7076 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-02T15:34:39,015+0700 [7076 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-02T15:34:39,406+0700 [7076 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-02T15:34:40,126+0700 [7076 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-02T15:34:40,306+0700 [7076 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-02T15:34:40,419+0700 [7076 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-02T15:34:40,422+0700 [7076 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-02T15:34:40,422+0700 [7076 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-02T15:34:40,423+0700 [7076 1] com.newrelic INFO: Premain startup complete in 2,014ms
+2025-01-02T15:34:40,424+0700 [7076 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-02T15:34:40,459+0700 [7076 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-02T15:36:40,430+0700 [7076 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2025-01-02T15:36:40,432+0700 [7076 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-02T15:36:41,762+0700 [7076 68] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2025-01-02T15:36:42,252+0700 [7076 68] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2025-01-02T15:36:42,252+0700 [7076 68] com.newrelic INFO: Agent run id: BcqmgVmUcnwCAE4fxFJZL5pndlAsAAIBAAAnIQEAABukAgRSWQVSAwAGOC4xNy4wAA9ERVNLVE9QLTJCT0NEN0QAEVJlYWN0aXZlIExlYXJuaW5n
+2025-01-02T15:36:42,252+0700 [7076 68] com.newrelic INFO: Agent 7076@DESKTOP-2BOCD7D/Reactive Learning connected to collector.newrelic.com:443
+2025-01-02T15:36:42,253+0700 [7076 68] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/5119940/applications/1381565778
+2025-01-02T15:36:42,254+0700 [7076 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-02T15:36:42,254+0700 [7076 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-02T15:36:42,254+0700 [7076 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-02T15:36:42,256+0700 [7076 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-02T15:36:42,256+0700 [7076 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-02T15:36:42,256+0700 [7076 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-02T15:36:42,717+0700 [7076 68] com.newrelic INFO: Real user monitoring is enabled for application Reactive Learning. Auto instrumentation is enabled.
+2025-01-02T15:36:42,718+0700 [7076 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-02T15:51:38,475+0700 [7396 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-02T15:51:38,475+0700 [7396 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-02T15:51:38,475+0700 [7396 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-02T15:51:38,475+0700 [7396 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-02T15:51:38,475+0700 [7396 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-02T15:51:38,476+0700 [7396 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-02T15:51:38,857+0700 [7396 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-02T15:51:39,534+0700 [7396 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-02T15:51:39,690+0700 [7396 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-02T15:51:39,791+0700 [7396 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-02T15:51:39,795+0700 [7396 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-02T15:51:39,795+0700 [7396 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-02T15:51:39,795+0700 [7396 1] com.newrelic INFO: Premain startup complete in 1,874ms
+2025-01-02T15:51:39,796+0700 [7396 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-02T15:51:39,824+0700 [7396 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-02T15:53:39,805+0700 [7396 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2025-01-02T15:53:39,808+0700 [7396 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-02T15:53:41,225+0700 [7396 68] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2025-01-02T15:53:42,694+0700 [7396 68] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2025-01-02T15:53:42,694+0700 [7396 68] com.newrelic INFO: Agent run id: BbIlbiT9XHEsAE4fxFJZL5pndlQoAAIBAAAnIQEAABzkAgRSWQVSAwAGOC4xNy4wAA9ERVNLVE9QLTJCT0NEN0QAEVJlYWN0aXZlIExlYXJuaW5n
+2025-01-02T15:53:42,694+0700 [7396 68] com.newrelic INFO: Agent 7396@DESKTOP-2BOCD7D/Reactive Learning connected to collector.newrelic.com:443
+2025-01-02T15:53:42,694+0700 [7396 68] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/5119940/applications/1381565778
+2025-01-02T15:53:42,696+0700 [7396 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-02T15:53:42,696+0700 [7396 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-02T15:53:42,696+0700 [7396 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-02T15:53:42,698+0700 [7396 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-02T15:53:42,698+0700 [7396 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-02T15:53:42,698+0700 [7396 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-02T15:53:43,251+0700 [7396 68] com.newrelic INFO: Real user monitoring is enabled for application Reactive Learning. Auto instrumentation is enabled.
+2025-01-02T15:53:43,252+0700 [7396 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-02T15:57:27,691+0700 [468 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-02T15:57:27,691+0700 [468 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-02T15:57:27,692+0700 [468 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-02T15:57:27,692+0700 [468 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-02T15:57:27,692+0700 [468 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-02T15:57:27,692+0700 [468 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-02T15:57:28,069+0700 [468 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-02T15:57:28,762+0700 [468 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-02T15:57:28,904+0700 [468 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-02T15:57:28,991+0700 [468 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-02T15:57:28,994+0700 [468 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-02T15:57:28,994+0700 [468 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-02T15:57:28,994+0700 [468 1] com.newrelic INFO: Premain startup complete in 1,861ms
+2025-01-02T15:57:28,995+0700 [468 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-02T15:57:29,023+0700 [468 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-02T15:58:05,543+0700 [10332 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-02T15:58:05,543+0700 [10332 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-02T15:58:05,543+0700 [10332 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-02T15:58:05,543+0700 [10332 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-02T15:58:05,543+0700 [10332 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-02T15:58:05,543+0700 [10332 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-02T15:58:05,923+0700 [10332 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-02T15:58:06,587+0700 [10332 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-02T15:58:06,744+0700 [10332 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-02T15:58:06,837+0700 [10332 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-02T15:58:06,840+0700 [10332 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-02T15:58:06,840+0700 [10332 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@6ad5c04e
+2025-01-02T15:58:06,841+0700 [10332 1] com.newrelic INFO: Premain startup complete in 1,943ms
+2025-01-02T15:58:06,842+0700 [10332 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-02T15:58:06,870+0700 [10332 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-02T16:08:24,818+0700 [11932 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-02T16:08:24,818+0700 [11932 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-02T16:08:24,818+0700 [11932 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-02T16:08:24,818+0700 [11932 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-02T16:08:24,818+0700 [11932 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-02T16:08:24,818+0700 [11932 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-02T16:08:25,208+0700 [11932 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-02T16:08:25,912+0700 [11932 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-02T16:08:26,058+0700 [11932 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-02T16:08:26,153+0700 [11932 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-02T16:08:26,156+0700 [11932 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-02T16:08:26,156+0700 [11932 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-02T16:08:26,156+0700 [11932 1] com.newrelic INFO: Premain startup complete in 1,923ms
+2025-01-02T16:08:26,158+0700 [11932 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-02T16:08:26,187+0700 [11932 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-02T16:10:26,166+0700 [11932 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2025-01-02T16:10:26,167+0700 [11932 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-02T16:10:27,628+0700 [11932 68] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2025-01-02T16:10:29,068+0700 [11932 68] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2025-01-02T16:10:29,068+0700 [11932 68] com.newrelic INFO: Agent run id: BYJAya2RuZxwAE4fxFJZL5pndlfoAAIBAAAnIQEAAC6cAgRSWQVSAwAGOC4xNy4wAA9ERVNLVE9QLTJCT0NEN0QAEVJlYWN0aXZlIExlYXJuaW5n
+2025-01-02T16:10:29,069+0700 [11932 68] com.newrelic INFO: Agent 11932@DESKTOP-2BOCD7D/Reactive Learning connected to collector.newrelic.com:443
+2025-01-02T16:10:29,069+0700 [11932 68] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/5119940/applications/1381565778
+2025-01-02T16:10:29,071+0700 [11932 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-02T16:10:29,071+0700 [11932 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-02T16:10:29,071+0700 [11932 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-02T16:10:29,073+0700 [11932 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-02T16:10:29,073+0700 [11932 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-02T16:10:29,073+0700 [11932 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-02T16:10:30,185+0700 [11932 68] com.newrelic INFO: Real user monitoring is enabled for application Reactive Learning. Auto instrumentation is enabled.
+2025-01-02T16:10:30,186+0700 [11932 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-02T17:01:21,307+0700 [4052 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-02T17:01:21,308+0700 [4052 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-02T17:01:21,308+0700 [4052 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-02T17:01:21,308+0700 [4052 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-02T17:01:21,308+0700 [4052 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-02T17:01:21,308+0700 [4052 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-02T17:01:21,688+0700 [4052 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-02T17:01:22,369+0700 [4052 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-02T17:01:22,537+0700 [4052 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-02T17:01:22,623+0700 [4052 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-02T17:01:22,626+0700 [4052 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-02T17:01:22,626+0700 [4052 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-02T17:01:22,626+0700 [4052 1] com.newrelic INFO: Premain startup complete in 1,881ms
+2025-01-02T17:01:22,627+0700 [4052 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-02T17:01:22,646+0700 [4052 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-02T17:03:22,630+0700 [4052 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2025-01-02T17:03:22,631+0700 [4052 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-02T17:03:24,108+0700 [4052 68] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2025-01-02T17:03:25,636+0700 [4052 68] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2025-01-02T17:03:25,637+0700 [4052 68] com.newrelic INFO: Agent run id: Bfb_yzfiLfHwAE4fxFJZL5pndmRUAAIBAAAnIQEAAA_UAgRSWQVSAwAGOC4xNy4wAA9ERVNLVE9QLTJCT0NEN0QAEVJlYWN0aXZlIExlYXJuaW5n
+2025-01-02T17:03:25,637+0700 [4052 68] com.newrelic INFO: Agent 4052@DESKTOP-2BOCD7D/Reactive Learning connected to collector.newrelic.com:443
+2025-01-02T17:03:25,637+0700 [4052 68] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/5119940/applications/1381565778
+2025-01-02T17:03:25,638+0700 [4052 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-02T17:03:25,638+0700 [4052 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-02T17:03:25,638+0700 [4052 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-02T17:03:25,640+0700 [4052 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-02T17:03:25,640+0700 [4052 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-02T17:03:25,640+0700 [4052 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-02T17:03:26,951+0700 [4052 68] com.newrelic INFO: Real user monitoring is enabled for application Reactive Learning. Auto instrumentation is enabled.
+2025-01-02T17:03:26,952+0700 [4052 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-02T17:07:00,502+0700 [3612 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-02T17:07:00,502+0700 [3612 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-02T17:07:00,502+0700 [3612 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-02T17:07:00,503+0700 [3612 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-02T17:07:00,503+0700 [3612 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-02T17:07:00,503+0700 [3612 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-02T17:07:00,881+0700 [3612 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-02T17:07:01,561+0700 [3612 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-02T17:07:01,713+0700 [3612 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-02T17:07:01,804+0700 [3612 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-02T17:07:01,807+0700 [3612 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-02T17:07:01,807+0700 [3612 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-02T17:07:01,807+0700 [3612 1] com.newrelic INFO: Premain startup complete in 1,849ms
+2025-01-02T17:07:01,809+0700 [3612 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-02T17:07:01,837+0700 [3612 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-02T17:11:38,851+0700 [772 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-02T17:11:38,851+0700 [772 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-02T17:11:38,852+0700 [772 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-02T17:11:38,852+0700 [772 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-02T17:11:38,852+0700 [772 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-02T17:11:38,852+0700 [772 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-02T17:11:39,228+0700 [772 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-02T17:11:39,899+0700 [772 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-02T17:11:40,040+0700 [772 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-02T17:11:40,126+0700 [772 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-02T17:11:40,129+0700 [772 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-02T17:11:40,129+0700 [772 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-02T17:11:40,129+0700 [772 1] com.newrelic INFO: Premain startup complete in 1,834ms
+2025-01-02T17:11:40,130+0700 [772 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-02T17:11:40,159+0700 [772 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.
+2025-01-02T17:13:40,137+0700 [772 68] com.newrelic INFO: Host name is DESKTOP-2BOCD7D, display host DESKTOP-2BOCD7D for application Reactive Learning
+2025-01-02T17:13:40,139+0700 [772 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-02T17:13:41,601+0700 [772 68] com.newrelic INFO: Collector redirection to collector.newrelic.com:443
+2025-01-02T17:13:43,782+0700 [772 68] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2025-01-02T17:13:43,783+0700 [772 68] com.newrelic INFO: Agent run id: BcdgH0vHLMU7AE4fxFJZL5pndmboAAIBAAAnIQEAAAMEAgRSWQVSAwAGOC4xNy4wAA9ERVNLVE9QLTJCT0NEN0QAEVJlYWN0aXZlIExlYXJuaW5n
+2025-01-02T17:13:43,783+0700 [772 68] com.newrelic INFO: Agent 772@DESKTOP-2BOCD7D/Reactive Learning connected to collector.newrelic.com:443
+2025-01-02T17:13:43,783+0700 [772 68] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/5119940/applications/1381565778
+2025-01-02T17:13:43,785+0700 [772 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-02T17:13:43,785+0700 [772 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-02T17:13:43,785+0700 [772 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-02T17:13:43,786+0700 [772 68] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2025-01-02T17:13:43,786+0700 [772 68] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2025-01-02T17:13:43,786+0700 [772 68] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2025-01-02T17:13:45,657+0700 [772 68] com.newrelic INFO: Real user monitoring is enabled for application Reactive Learning. Auto instrumentation is enabled.
+2025-01-02T17:13:45,659+0700 [772 68] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2025-01-02T17:14:24,172+0700 [9948 1] com.newrelic INFO: Writing to New Relic log file: D:\Code\Core\reactiveLearning\newrelic\logs\newrelic_agent.log
+2025-01-02T17:14:24,172+0700 [9948 1] com.newrelic INFO: JRE vendor Oracle Corporation version 21.0.5
+2025-01-02T17:14:24,172+0700 [9948 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 21.0.5+9-LTS-jvmci-23.1-b48
+2025-01-02T17:14:24,172+0700 [9948 1] com.newrelic INFO: OS Windows 10 version 10.0 arch amd64
+2025-01-02T17:14:24,172+0700 [9948 1] com.newrelic INFO: Agent Host: DESKTOP-2BOCD7D IP: 192.168.1.13
+2025-01-02T17:14:24,172+0700 [9948 1] com.newrelic INFO: New Relic Agent v8.17.0 is initializing...
+2025-01-02T17:14:24,551+0700 [9948 44] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2025-01-02T17:14:25,220+0700 [9948 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2025-01-02T17:14:25,367+0700 [9948 1] com.newrelic INFO: Setting audit_mode to false
+2025-01-02T17:14:25,455+0700 [9948 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is D:\Code\Core\reactiveLearning\newrelic\.\newrelic.yml
+2025-01-02T17:14:25,457+0700 [9948 1] com.newrelic INFO: New Relic Agent v8.17.0 has started
+2025-01-02T17:14:25,458+0700 [9948 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@725bef66
+2025-01-02T17:14:25,458+0700 [9948 1] com.newrelic INFO: Premain startup complete in 1,837ms
+2025-01-02T17:14:25,459+0700 [9948 1] com.newrelic INFO: New Relic Security is completely disabled by one of the user provided config `security.enabled`, `security.agent.enabled` or `high_security`. Not loading security capabilities.
+2025-01-02T17:14:25,487+0700 [9948 1] com.newrelic WARN: New Relic Agent is already running! Check if more than one -javaagent switch is used on the command line.

@@ -1,0 +1,41 @@
+[versions]
+spring-boot = "3.4.1"
+spring-dm = "1.1.7"
+graalvm = "0.10.4"
+mapstruct = "1.6.3"
+download = "5.6.0"
+swagger = "2.7.0"
+
+[libraries]
+spring-actuator = { module = "org.springframework.boot:spring-boot-starter-actuator" }
+spring-data-r2dbc = { module = "org.springframework.boot:spring-boot-starter-data-r2dbc" }
+spring-mail = { module = "org.springframework.boot:spring-boot-starter-mail" }
+spring-oauth2-resource-server = { module = "org.springframework.boot:spring-boot-starter-oauth2-resource-server" }
+spring-security = { module = "org.springframework.boot:spring-boot-starter-security" }
+spring-webflux = { module = "org.springframework.boot:spring-boot-starter-webflux" }
+spring-validation = { module = "org.springframework.boot:spring-boot-starter-validation" }
+spring-jdbc = { module = "org.springframework:spring-jdbc" }
+spring-devtools = { module = "org.springframework.boot:spring-boot-devtools" }
+spring-test = { module = "org.springframework.boot:spring-boot-starter-test" }
+reactor-test = { module = "io.projectreactor:reactor-test" }
+spring-security-test = { module = "org.springframework.security:spring-security-test" }
+liquibase = { module = "org.liquibase:liquibase-core" }
+lombok = { module = "org.projectlombok:lombok" }
+new-relic = { module = "io.micrometer:micrometer-registry-new-relic" }
+postgresql-sync = { module = "org.postgresql:postgresql" }
+postgresql-async = { module = "org.postgresql:r2dbc-postgresql" }
+junit = { module = "org.junit.platform:junit-platform-launcher" }
+mapstruct-core = { module = "org.mapstruct:mapstruct", version.ref = "mapstruct" }
+mapstruct-processor = { module = "org.mapstruct:mapstruct-processor", version.ref = "mapstruct" }
+swagger = { module = "org.springdoc:springdoc-openapi-starter-webflux-ui", version.ref = "swagger" }
+
+[bundles]
+spring = ["spring-actuator", "spring-data-r2dbc", "spring-mail", "spring-webflux", "spring-jdbc", "spring-oauth2-resource-server", "spring-security", "spring-validation"]
+test = ["spring-test", "spring-security-test", "reactor-test"]
+runtime = ["new-relic", "postgresql-sync", "postgresql-async"]
+
+[plugins]
+spring-boot = { id = "org.springframework.boot", version.ref = "spring-boot" }
+spring-dm = { id = "io.spring.dependency-management", version.ref = "spring-dm" }
+graalvm = { id = "org.graalvm.buildtools.native", version.ref = "graalvm" }
+undercouch-download = { id = "de.undercouch.download", version.ref = "download" }
